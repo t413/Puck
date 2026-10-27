@@ -2,9 +2,9 @@
 
 Puck is a 8DOF bipedal wheeled robot project.
 
-![puck gif horizontal](https://t413.com/p/projects/puck/puck-title-horizontal.gif)
+![puck gif horizontal](https://t413.com/p/projects/puck/puck-horiz-small.gif)
 
-Here's some resources:
+## Links & Resources:
 
 - [MakerWorld design page](/go/puck-mw?ref=puckgh) for
 	- 3MF / STL files of design
@@ -32,5 +32,6 @@ My goal is to empower people to make impressive things. Would like to
 - Browse, understand, learn?
 - Edit, tweak, fiddle?
 
-Please say so in [my Discord](/go/discord?ref=puckgh)! Would love to hear from you.
+Please say so in [my Discord](/go/discord?ref=puckgh)! Would love to hear from you. I'm working on a more formal way to join.
 
+![puck design](https://t413.com/p/projects/puck/puck_design.png)

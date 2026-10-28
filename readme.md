@@ -1,4 +1,6 @@
-# Puck the Robot. The _Personal Upright Control Kompanion_
+# Puck the Robot
+
+### your _Personal Upright Control Kompanion_
 
 Puck is a 8DOF bipedal wheeled robot project.
 
@@ -6,13 +8,13 @@ Puck is a 8DOF bipedal wheeled robot project.
 
 ## Links & Resources:
 
-- [MakerWorld design page](/go/puck-mw?ref=puckgh) for
+- [MakerWorld design page](https://t413.com/go/puck-mw?ref=puckgh) for
 	- 3MF / STL files of design
 	- parts list
 	- assembly instructions
 	- documentation, etc
 - [Firmware Flash](https://t413.com/p/projects/puck/?ref=puckgh) web tool
-- [My Discord](/go/discord?ref=puckgh) for direct help, community, etc
+- [My Discord](https://t413.com/go/discord?ref=puckgh) for direct help, community, etc
 
 
 ## Powered by the [MultiMotor library](https://github.com/t413/multimotor)
@@ -26,12 +28,12 @@ This project is _open-source-upon-request_, at least for now. Why?
 
 I'm trying something new! Why contribute more high-quality systems engineering data to trillion dollar companies– just for them to more easily obviate more jobs.
 
-My goal is to empower people to make impressive things. Would like to
+My goal is to empower people to make impressive things. Would you like to:
 
 - Help, collaborate, contribute?
 - Browse, understand, learn?
 - Edit, tweak, fiddle?
 
-Please say so in [my Discord](/go/discord?ref=puckgh)! Would love to hear from you. I'm working on a more formal way to join.
+Please say so in [my Discord](https://t413.com/go/discord?ref=puckgh)! Would love to hear from you. Non-discord ways to join are in the future too, email (in my github profile) is welcome as well.
 
 ![puck design](https://t413.com/p/projects/puck/puck_design.png)
